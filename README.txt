@@ -14,4 +14,4 @@ if you have any problems, here installation guide(https://www.datacamp.com/commu
     you can look it up on Google
 7. Type your City Name
 8. Now scraper will start scraping the infromation it might take from 10-30 min depending on the size of city. 
-9. All the infromation is stored inside the city folder
+9. All the infromation is stored inside the city folder"# Houzz-Scraper" 
